@@ -102,6 +102,26 @@ const experiences = [
   },
 
   {
+    image: "roadeo.webp",
+    title: "Roadeo.io",
+    timeframe: "April 2019 - June 2019",
+    position: "React Native Developer",
+    stack: "React Native",
+    description:
+      "This freelance project required me to build a react native app that used sensors to gather data about road quality. Together with a data scientist I designed the app to send frequent updates to the backend.",
+  },
+
+  {
+    image: "mypo.jpeg",
+    title: "MYPO",
+    timeframe: "February 2019 - April 2019",
+    position: "Full Stack Developer",
+    stack: "React Native, Expo, Node.js (Full-Stack JavaScript)",
+    description:
+      "This React Native App was for a last-mile delivery system. I refactored the whole existing app and took ownership of the codebase. With a team of 6 we quickly brought the startup closer to Product Market Fit.",
+  },
+
+  {
     image: "dyme.jpg",
     title: "Dyme",
     timeframe: "February 2019 - August 2019",
@@ -111,6 +131,24 @@ const experiences = [
       "This app has tens of thousands of users now. I am proud to have worked as a React Native Developer in a team of six. I worked tightly together with the CTO and a designer to build large parts of their app. I am proud to have worked with detached react native. Among other things, I integrated firebase and built many UX’s from scratch.",
   },
 
+  {
+    image: "targetholding.png",
+    title: "Target Holding (Slimmer AI) - Bencompare",
+    timeframe: "July 2018 - February 2019",
+    position: "Mobile App Developer",
+    stack: "React Native",
+    description:
+      "Bencompare was a Personal Expenses Dashboard. I worked together with a big team to bring this app to production and build lots of features for it.",
+  },
+  {
+    image: "ovfiets.png",
+    title: "OVFiets",
+    timeframe: "June 2018 - November 2019",
+    position: "Co-Founder & Front-End Developer",
+    stack: "Android & iOS app with React Native",
+    description:
+      "OVFiets had the goal of making public transport more environment friendly by giving people the possibility to show cycling routes to the bus-stations and getting the shortest route time-wise with bike to public transport to bike.",
+  },
   {
     image: "communify.png",
     title: "Communify",
@@ -192,7 +230,9 @@ Website: www.codefromanywhere.com
 
 - All of the above
 - Node.js
+- Express
 - MySQL
+- Sequelize
 
 ### Other
 

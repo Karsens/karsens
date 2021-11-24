@@ -35,7 +35,9 @@ Website: www.codefromanywhere.com
 
 - All of the above
 - Node.js
+- Express
 - MySQL
+- Sequelize
 
 ### Other
 
@@ -243,6 +245,40 @@ For this app I did basically everything since it was my own startup idea: from i
 For Let’s I worked together with one other developer on the React Native Frontend and the Node.js Express Backend (Full Stack JavaScript). For this project, the greatest challenge was to keep the codebase simple and structured and finishing the project. Since the PM and designer wanted more and more features every iteration, this has been a great challenge.
 </div>,<div style="margin-bottom:50px;">
 <div style="display:flex">
+<div><img src="roadeo.webp" width="120" height="120" /></div>
+<div style="padding:10px; padding-top:0px;">
+<b>Roadeo.io</b>
+
+<div style="display:grid; grid-template-columns: auto auto;">
+    <div style="width:120px;">Timeframe</div>
+    <div>April 2019 - June 2019</div>
+    <div>Position</div>
+    <div>React Native Developer</div>
+    <div>Stack</div>
+    <div>React Native</div>
+</div>
+</div>
+</div>
+This freelance project required me to build a react native app that used sensors to gather data about road quality. Together with a data scientist I designed the app to send frequent updates to the backend.
+</div>,<div style="margin-bottom:50px;">
+<div style="display:flex">
+<div><img src="mypo.jpeg" width="120" height="120" /></div>
+<div style="padding:10px; padding-top:0px;">
+<b>MYPO</b>
+
+<div style="display:grid; grid-template-columns: auto auto;">
+    <div style="width:120px;">Timeframe</div>
+    <div>February 2019 - April 2019</div>
+    <div>Position</div>
+    <div>Full Stack Developer</div>
+    <div>Stack</div>
+    <div>React Native, Expo, Node.js (Full-Stack JavaScript)</div>
+</div>
+</div>
+</div>
+This React Native App was for a last-mile delivery system. I refactored the whole existing app and took ownership of the codebase. With a team of 6 we quickly brought the startup closer to Product Market Fit.
+</div>,<div style="margin-bottom:50px;">
+<div style="display:flex">
 <div><img src="dyme.jpg" width="120" height="120" /></div>
 <div style="padding:10px; padding-top:0px;">
 <b>Dyme</b>
@@ -258,6 +294,40 @@ For Let’s I worked together with one other developer on the React Native Front
 </div>
 </div>
 This app has tens of thousands of users now. I am proud to have worked as a React Native Developer in a team of six. I worked tightly together with the CTO and a designer to build large parts of their app. I am proud to have worked with detached react native. Among other things, I integrated firebase and built many UX’s from scratch.
+</div>,<div style="margin-bottom:50px;">
+<div style="display:flex">
+<div><img src="targetholding.png" width="120" height="120" /></div>
+<div style="padding:10px; padding-top:0px;">
+<b>Target Holding (Slimmer AI) - Bencompare</b>
+
+<div style="display:grid; grid-template-columns: auto auto;">
+    <div style="width:120px;">Timeframe</div>
+    <div>July 2018 - February 2019</div>
+    <div>Position</div>
+    <div>Mobile App Developer</div>
+    <div>Stack</div>
+    <div>React Native</div>
+</div>
+</div>
+</div>
+Bencompare was a Personal Expenses Dashboard. I worked together with a big team to bring this app to production and build lots of features for it.
+</div>,<div style="margin-bottom:50px;">
+<div style="display:flex">
+<div><img src="ovfiets.png" width="120" height="120" /></div>
+<div style="padding:10px; padding-top:0px;">
+<b>OVFiets</b>
+
+<div style="display:grid; grid-template-columns: auto auto;">
+    <div style="width:120px;">Timeframe</div>
+    <div>June 2018 - November 2019</div>
+    <div>Position</div>
+    <div>Co-Founder & Front-End Developer</div>
+    <div>Stack</div>
+    <div>Android & iOS app with React Native</div>
+</div>
+</div>
+</div>
+OVFiets had the goal of making public transport more environment friendly by giving people the possibility to show cycling routes to the bus-stations and getting the shortest route time-wise with bike to public transport to bike.
 </div>,<div style="margin-bottom:50px;">
 <div style="display:flex">
 <div><img src="communify.png" width="120" height="120" /></div>
