@@ -210,6 +210,8 @@ Email: wijnand@karsens.com
 
 Website: www.codefromanywhere.com
 
+[![wakatime](https://wakatime.com/badge/user/7d623a0a-b2f1-438d-b049-479ca16f4035.svg)](https://wakatime.com/@7d623a0a-b2f1-438d-b049-479ca16f4035)
+
 ## Skills
 
 ### Web Development
