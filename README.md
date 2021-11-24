@@ -1,5 +1,5 @@
 <div style="display: flex; flex-direction: row;">
-<div style="margin-right: 20px; width: 300px;">
+<aside style="margin-right: 20px; width: 300px;">
 
 <img src="pasfoto.png" style="width:200px; border-radius:100px;"/>
 
@@ -54,7 +54,7 @@ Website: www.codefromanywhere.com
 - Writing
 - Hiking
 
-</div>
+</aside>
 
 <div style="flex:1;">
 
