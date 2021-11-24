@@ -121,6 +121,17 @@ const experiences = [
     description:
       "This app had the primary goal to create stronger and more meaningful networks in co-working spaces. It has been my most ambitious project. I did everything from the idea stage until it was done. Especially working with GraphQL was a great challenge, yet very fun and rewarding!",
   },
+
+  {
+    image: "mastercrimez.png",
+    title: "MasterCrimeZ",
+    timeframe: "June 2006 - present",
+    position: "Founder & Full-Stack Developer",
+    stack:
+      "<b>2006 - 2017:</b> PHP, HTML, CSS, MySQL<br /><b>2018 - present:</b> Android & iOS & web app with React Native (web) + Expo.io, Node JS, Express, MySQL, REST",
+    description:
+      "I started with this when I was 12 years old. I learned to use PHP, HTML, CSS and MySQL and build a game for others to play. Around 2008 it was the most popular with thousands of monthly recurring revenue and over 500 daily active players. In 2018 I tought myself app development and rebuilt the game in React Native for all platforms. The game is still online now, but isn't actively worked on anymore. But who knows what the future will hold!",
+  },
 ];
 
 const experienceHtml = (experience) => {

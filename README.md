@@ -275,6 +275,23 @@ This app has tens of thousands of users now. I am proud to have worked as a Reac
 </div>
 </div>
 This app had the primary goal to create stronger and more meaningful networks in co-working spaces. It has been my most ambitious project. I did everything from the idea stage until it was done. Especially working with GraphQL was a great challenge, yet very fun and rewarding!
+</div>,<div style="margin-bottom:50px;">
+<div style="display:flex">
+<div><img src="mastercrimez.png" width="120" height="120" /></div>
+<div style="padding:10px; padding-top:0px;">
+<b>MasterCrimeZ</b>
+
+<div style="display:grid; grid-template-columns: auto auto;">
+    <div style="width:120px;">Timeframe</div>
+    <div>June 2006 - present</div>
+    <div>Position</div>
+    <div>Founder & Full-Stack Developer</div>
+    <div>Stack</div>
+    <div><b>2006 - 2017:</b> PHP, HTML, CSS, MySQL<br /><b>2018 - present:</b> Android & iOS & web app with React Native (web) + Expo.io, Node JS, Express, MySQL, REST</div>
+</div>
+</div>
+</div>
+I started with this when I was 12 years old. I learned to use PHP, HTML, CSS and MySQL and build a game for others to play. Around 2008 it was the most popular with thousands of monthly recurring revenue and over 500 daily active players. In 2018 I tought myself app development and rebuilt the game in React Native for all platforms. The game is still online now, but isn't actively worked on anymore. But who knows what the future will hold!
 </div>
 
 </div>
