@@ -270,7 +270,7 @@ The coming years my plan is to use my coding and leadership skills to develop hu
 
 # Experience
 
-${experiences.map((xp) => experienceHtml(xp))}
+${experiences.map((xp) => experienceHtml(xp)).join("")}
 
 </div>`;
 
