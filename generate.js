@@ -212,7 +212,9 @@ Website: www.codefromanywhere.com
 
 [![wakatime](https://wakatime.com/badge/user/7d623a0a-b2f1-438d-b049-479ca16f4035.svg)](https://wakatime.com/@7d623a0a-b2f1-438d-b049-479ca16f4035)
 
-<figure><embed src="https://wakatime.com/share/@Wijnand/b7187b8a-58eb-4e8e-bc4d-db6bfc0f32da.svg"></embed></figure>
+<!--<figure><embed src="https://wakatime.com/share/@Wijnand/b7187b8a-58eb-4e8e-bc4d-db6bfc0f32da.svg"></embed></figure>-->
+
+![](https://wakatime.com/share/@Wijnand/d1babe6d-0a46-4ca8-bf9c-e309101838ad.svg)
 
 ## Skills
 
