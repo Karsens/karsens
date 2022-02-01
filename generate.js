@@ -2,6 +2,52 @@ const fs = require("fs");
 
 const experiences = [
   {
+    image: "cfa.png",
+    title: "Code From Anywhere",
+    timeframe: "April 2021 - present",
+    position: "Co-Founder & Full-Stack Developer",
+    stack: "React, Next.js, React Native, Expo (Full stack TypeScript)",
+    description:
+      "Code From Anywhere is the agency under which I provide my services together with a handful of other experienced freelancers.",
+    blurp: {
+      image: "sander.jpeg",
+      author: "Sander van Rijsoort",
+      tagline: "Freelance Front-End Developer",
+      email: "s.rijsoort@gmail.com",
+      phone: "+31643499341",
+      text: 'I have been working with Wijnand together on a MVP for a startup in React-Native. He has a genuine interest in programming and is always looking for ways to improve his code, make workflows more efficient and has very in-depth JavaScript knowledge. Also he is very goal-oriented and is very focussed on reaching his goals and embodies a "get it done" mentality. Highly recommended for your next MVP or React application!',
+    },
+  },
+
+  {
+    image: "emesa.jpeg",
+    title: "Emesa",
+    timeframe: "November 2021 - present",
+    position: "Full-Stack Developer",
+    stack: "React, Next.js, React Native, Expo (Full stack TypeScript)",
+    description:
+      "Together with a small team we rebuilt ActieVanDeDag.nl and replaced the previous version.",
+
+    blurp: {
+      image: "joost.jpeg",
+      author: "Joost van Driel",
+      tagline: "Freelance Full Stack Developer",
+      email: "joost.vandriel@emesa.nl",
+      text: "Wijnand joined our team to help out with building a new front-end application. From the very first day, he was delivering a lot of value and pushing the product forward. He brought a lot of technical knowledge about modern front-end development and shared it with our team. He was a good colleague that delivered quality work.",
+    },
+  },
+
+  {
+    image: "stoic.jpeg",
+    title: "Stoic Strategies",
+    timeframe: "November 2021 - present",
+    position: "Front-End Developer",
+    stack: "React, Next.js, React Native, Expo (TypeScript)",
+    description:
+      "Stoic needed a front-end to gain better insights into their trading strategies.",
+  },
+
+  {
     image: "coworksurf.png",
     title: "CoworkSurf",
     timeframe: "September 2021 - present",
@@ -9,6 +55,14 @@ const experiences = [
     stack: "React, Next.js, Node.js (Full Stack TypeScript)",
     description:
       "Probably the project I’m most proud of. Together with the 3 other founders, within one month I have successfully launched the MVP website: a booking platform for shared housing for remote workers at surf locations. The hardest part of this app was the complex logic of booking accommodation, the Stripe integration, and the optimal image delivery. Have a look at www.coworksurf.com",
+
+    blurp: {
+      image: "michele.jpeg",
+      author: "Michele Picozzi",
+      email: "michele.g.picozzi@gmail.com",
+      tagline: "Full Stack Web Developer",
+      text: "Wijnard is a great team member, we worked closely together to build a full website for remote workers in less than 2 months. It would have not been possible without him and he's been a key contributor since day 1. Wonderful CTO, any company would be more than lucky to have!\n\nAlso, working with him is fun, regardless of how difficult and complex the project is!",
+    },
   },
 
   {
@@ -49,16 +103,6 @@ const experiences = [
     stack: "React Native",
     description:
       "Classic Car Ratings is a company that appraises classic cars. Together with a backend developer I created their first app. I also delved into white-label solutions because they will need that in the future.",
-  },
-
-  {
-    image: "cfa.png",
-    title: "Code From Anywhere",
-    timeframe: "April 2021 - present",
-    position: "Co-Founder & Full-Stack Developer",
-    stack: "React, Next.js, React Native, Expo (Full stack TypeScript)",
-    description:
-      "Code From Anywhere is the agency under which I provide my services together with a handful of other experienced freelancers. Besides this, we are also building a platform to support ourselves. Conceptualization, prototyping, and creating an MVP now. It’s a work in progress, but can be seen at https://hirefreelance.dev",
   },
 
   {
@@ -179,17 +223,49 @@ const experienceHtml = (experience) => {
 <div style="padding:10px; padding-top:0px;">
 <b>${experience.title}</b>
 
+<!--details-->
 <div style="display:grid; grid-template-columns: auto auto;">
-    <div style="width:120px;">Timeframe</div>
-    <div>${experience.timeframe}</div>
-    <div>Position</div>
-    <div>${experience.position}</div>
-    <div>Stack</div>
-    <div>${experience.stack}</div>
+<div style="width:120px;">Timeframe</div>
+<div>${experience.timeframe}</div>
+<div>Position</div>
+<div>${experience.position}</div>
+<div>Stack</div>
+<div>${experience.stack}</div>
 </div>
+<!--details end-->
+
 </div>
 </div>
 ${experience.description}
+${
+  experience.blurp
+    ? `<div style="margin-top:20px;"><b>Recommendation:</b>
+<div style="display:flex; padding:10px; border: 1px solid black;">
+
+<div><img src="${
+        experience.blurp.image
+      }" width="80" height="80" style="border-radius:40px;" /></div>
+<div style="padding:10px; padding-top:0px;">
+<b>${experience.blurp.author}</b> (${experience.blurp.tagline})
+
+<!--details-->
+<div style="display:grid; grid-template-columns: auto auto;">
+${
+  experience.blurp.phone || experience.blurp.email
+    ? `<div>Contact</div>
+<div>${experience.blurp.phone || ""} ${experience.blurp.email || ""}</div>`
+    : ""
+}
+<div style="width:120px;">Recommendation</div>
+<div style="width:400px;">${experience.blurp.text}</div>
+</div>
+<!--details end-->
+
+</div>
+</div>
+</div>`
+    : ""
+}
 </div>`;
 };
 
