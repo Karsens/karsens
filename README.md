@@ -23,44 +23,19 @@ Website: www.codefromanywhere.com
 
 ## Skills
 
-### Web Development
+- System Architecture (Open Source, Decentralised, Scalable, Elegant, Web3)
+- Delivering High-Quality Greenfield Apps* in weeks, not months!
+- PO, Tech Lead (KTTA), Teaching, Mentoring
+- Entrepreneurship: idea generation, POC, MVP, validation
+- Recruitment (LinkedIn CRM + Automation)
+- Hiring: (Technical) Interviews
+- Big rewrites/refactors of complex app ecosystems
+- Adventure and (Extreme) sports (and organising this)
 
-- JavaScript / TypeScript
-- React
-- Next.js
-- HTML
-- (S)CSS
+* Stack: Typescript, Node.js, React (with Native), Next.js, Expo, Sensible
+* Apps: Web, Android, iOS, VSCode, Chrome, Windows, Mac, Linux
 
-### App Development
-
-- JavaScript / TypeScript
-- React Native
-- Expo.io
-
-### Full Stack MVP Development
-
-- All of the above
-- Node.js
-- Express
-- MySQL
-- Sequelize
-
-### Other
-
-- Team Work
-- Marketing
-- Entrepreneurship
-- Product Ownership
-- Test Driven Development
-
-## Interests
-
-- (Kite)surfing
-- Tabletop games
-- Travel
-- Going out
-- Writing
-- Hiking
+Web3? Human Centered Web
 
 </aside>
 
@@ -68,9 +43,11 @@ Website: www.codefromanywhere.com
 
 # Profile
 
-I am am motivated individual that prides himself in having a lot of experience in (full-stack) web- and app-development, working extremely fast and creating high-quality end-products.
+Hi, I'm Wijnand... I’m a free yet impact-driven human interested in saving humanity and the planet from climate change 🌿 and the bad applications of AI 🤖
 
-The coming years my plan is to use my coding and leadership skills to develop humane mobile- and web-apps. I plan to get Senior Developer, Lead Developer, and CTO roles while growing my Software Development Agency.
+⚛️ CODE FROM ANYWHERE 🏝🏔🏄‍♂️ is on a path to help 100.000 developers reach their full potential while traveling the world. 
+
+🚀 From idea to app in under a month? Yes yes! This is what I do! Using my own methodology, tools, and frameworks, me and my team make production-ready apps in a matter of weeks. Contact me to get a FREE initial consulting session with me.
 
 # Education
 
